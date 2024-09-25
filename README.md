@@ -19,6 +19,3 @@ Explore WanderLust today!
 
 
 Check out the repo: https://github.com/HarshThakkar15/Major-Project
-
-
-For better experience open in laptop or pc.
