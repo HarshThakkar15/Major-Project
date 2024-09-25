@@ -15,13 +15,10 @@ Features include:
 
 
 Explore WanderLust today!
+ https://major-project-qeey.onrender.com/listings
 
-https://major-project-qeey.onrender.com/listings
 
-
-Check out the repo:
-
-https://github.com/HarshThakkar15/Major-Project
+Check out the repo: https://github.com/HarshThakkar15/Major-Project
 
 
 For better experience open in laptop or pc.
